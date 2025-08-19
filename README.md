@@ -1,4 +1,12 @@
-
+<div align="center">
+  <h1 align="center">
+    <br />
+    <br />
+    <a href="https://github.com/Lu1sMig/desafioforohub/">
+      <img src="docs/portada-forohub.png" alt="♨️ imagen-foro-hub ⚙️" width="100%">
+    </a>
+  </h1>
+</div>
 # 📚 ForoHub
 
 ![Java](https://img.shields.io/badge/Java-21-blue?style=for-the-badge&logo=java)
